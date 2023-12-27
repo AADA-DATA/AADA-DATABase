@@ -1,15 +1,1 @@
-;Periods;calBP;calBC/AD
-m1;Early Mesolithic;10900-10200;8900-8200
-m2;Middle Mesolithic;10200-8200;8200-6200
-m3;Late Mesolithic;8200-7100;6200-5100
-n1;Early Neolithic;7100-5900;5100-3900
-n2;Middle Neolithic;5900-4900;3900-2900
-n3;Late Neolithic;4900-4400;2900-2400
-n4;Final Neolithic;4400-3900;2400-1900
-p1;Early Bronze Age;3900-3000;1900-1000
-p2;Late Bronze Age;3000-2400;1000-400
-r1;Early Iron Age;2400-1200;400bc-800ad
-r2;Late Iron Age and Early Medieval Period;1200-500;800-1500
-;;;
-;;;
-new table;;;
+;Periods;calBP;calBC/ADm1;Early Mesolithic;10900-10200;8900-8200m2;Middle Mesolithic;10200-8200;8200-6200m3;Late Mesolithic;8200-7100;6200-5100n1;Early Neolithic;7100-5900;5100-3900n2;Middle Neolithic;5900-4900;3900-2900n3;Late Neolithic;4900-4400;2900-2400n4;Final Neolithic;4400-3900;2400-1900p1;Early Bronze Age;3900-3000;1900-1000p2;Late Bronze Age;3000-2400;1000-400r1;Early Iron Age;2400-1200;400bc-800adr2;Late Iron Age and Early Medieval Period;1200-500;800-1500;;;;;;new table;;;
