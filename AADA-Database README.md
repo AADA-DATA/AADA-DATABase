@@ -5,32 +5,35 @@ Each period contains both period-specific and general artefact categories and ac
 Table 1. The artefact categories included in the AADA database.
 
 AADA Stone Age.xlsx	
-Pottery
-Stone tools
-Clay artefacts
-Bone artefacts
-Wooden artefacts
-Amber
+
+Pottery,
+Stone tools,
+Clay artefacts,
+Bone artefacts,
+Wooden artefacts,
+Amber,
 Birch bark tar	
 
 AADA Bronze Age.xlsx
-Pottery
-Stone tools
-Clay artefacts
-Bone artefacts
-Wooden artefacts
+
+Pottery,
+Stone tools,
+Clay artefacts,
+Bone artefacts,
+Wooden artefacts,
 Bronze objects	
 
 AADA Iron Age.xlsx
-Pottery
-Stone tools
-Clay artefacts
-Bone artefacts
-Wooden artefacts
-Bronze artefacts
-Iron artefacts
-Silver and golden artefacts
-Beads
+
+Pottery,
+Stone tools,
+Clay artefacts,
+Bone artefacts,
+Wooden artefacts,
+Bronze artefacts,
+Iron artefacts,
+Silver and golden artefacts,
+Beads,
 Organic materials
 
 Each row in the table represents a single artefact, while each column represents a specific attribute, such as its type, period, site, and measurements. Pottery forms a different case as the material is not organised according to separate vessels (except pottery detailed in AADA Iron Age), but according to types/styles present in each collection main number. The detailed description of the data is found in the paper Pesonen et al. (2024). 
