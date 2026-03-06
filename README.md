@@ -19,7 +19,7 @@ The full methodological description of data collection and structure is provided
 
 ```
 AADA-DATABase/
-├── data/                        # R binary objects (.rda); populated when R package is built
+├── data/                        # R binary objects (.rda), TULEE R-PAKETIN YHTEYDESSÄ
 ├── data-raw/
 │   ├── AADA_Bronze_Age/         # Per-category CSV files for the Bronze Age period
 │   │   └── AADA_Bronze_Age_master.csv   # Merged master table for the Bronze Age
@@ -27,8 +27,8 @@ AADA-DATABase/
 │   │   └── AADA_Iron_Age_master.csv     # Merged master table for the Iron Age
 │   ├── AADA_Stone_Age/          # Per-category CSV files for the Stone Age period
 │   │   └── AADA_Stone_Age_master.csv    # Merged master table for the Stone Age
-├── examples/                    # Annotated R scripts from the associated publication
-├── R/                           # R package source code; populated when R package is built
+├── examples/                    # Annotated R scripts, TÄNNE TULISI SITTEN R-PAKETIN KÄYTTÖESIMERKKEJÄ NYKYISTEN LISÄKSI
+├── R/                           # R package source code, TULEE R-PAKETIN YHTEYDESSÄ
 ├── LICENSE.md
 └── README.md
 ```
