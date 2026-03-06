@@ -9,7 +9,7 @@
 
 ## Overview
 
-The Archaeological Artefact Database of Finland (AADA) is a comprehensive, systematically structured repository of prehistoric artefacts recovered from Finnish museum collections. The database is organised thematically across three chronological periods — the Stone Age, Bronze Age, and Iron Age — and encompasses artefact categories that are both period-specific and cross-period in scope. Each row in the dataset represents a single artefact, while each column encodes a specific attribute, including typological classification, provenance, spatial coordinates, and physical measurements. An exception is made for pottery, where each row denotes the presence of a pottery type or style within a given collection accession number rather than an individual vessel.
+The Archaeological Artefact Database of Finland (AADA) is a comprehensive, systematically structured repository of prehistoric artefacts recovered from Finnish museum collections. The database is organised thematically across three chronological periods the Stone Age, Bronze Age, and Iron Agee. Each row in the dataset represents a single artefact, while each column encodes a specific attribute, including typological classification, provenance, spatial coordinates, and physical measurements. An exception is made for pottery, where each row denotes the presence of a pottery type or style within a given collection accession number rather than an individual vessel.
 
 The full methodological description of data collection and structure is provided in Pesonen et al. (submitted, *Nature Scientific Data*).
 
@@ -89,7 +89,26 @@ The Iron Age tables additionally include detailed sub-tables for pottery and sto
 
 #### Museum Collection Codes
 
-The `Collection` column encodes 32 source institutions, including: `KM` (National Museum of Finland), `ÅM` (Ålands Museum), `TYA` (University of Turku, Archaeology), `TMM` (Turku Museum Centre), `SatM` (Museum of Satakunta), `KHMESIE` (Kuopio Cultural History Museum), `EKM` (Museum of South Karelia), `BM` (Porvoo Museum), `HM` (Häme Museum, Tampere), `Hal` (Halikko Museum), `Per` (Perniö Museum), `SHH` (Stockholm Historiska Museet), among others.
+| Code | Local Name | English Name |
+|------|-------------|--------------|
+| KM | Kansallismuseo | National Museum of Finland |
+| ÅM | Ålands Museum | Ålands Museum |
+| TYA | Turun Yliopisto Arkeologia | University of Turku, Archaeology |
+| TMM | Turun museokeskus | Turku Museum Centre (current signum TMK, dataset uses TMM) |
+| SatM | Satakunnan Museo | Museum of Satakunta |
+| KHMESIE | Kuopion kulttuurihistoriallinen museo | Kuopio Cultural History Museum |
+| EKM | Etelä-Karjalan museo | Museum of South Karelia |
+| BM | Porvoon Museo | Porvoo Museum (sw. Borgå Museum) |
+| HM | Hämeen museo | Häme Museum, Museum Centre Vapriikki, Tampere |
+| Hal | Halikon museo | Halikko Museum (part of Salo Historical Museum) |
+| Per | Perniön museo | Perniö Museum (part of Salo Historical Museum) |
+| Linder | — | Linder collections, Turku Museum Centre |
+| Nyberg | — | Nyberg collections, EKTA Museum Raasepori |
+| SII | Pöljän kotiseutumuseo | Curated by Kuopio Cultural History Museum |
+| KARTT/VI | Karttulan kotiseutumuseo | Curated by Kuopio Cultural History Museum |
+| KIUR | Kiuruveden museo | Kiuruvesi Museum, curated by Kuopio Cultural History Museum |
+| Lauri Nautela kok | Lauri Nautela Museum | Lauri Nautela Museum, Lieto |
+| SHH | — | Stockholm Historiska Museet, Sweden |
 
 ### Temporal Information
 
