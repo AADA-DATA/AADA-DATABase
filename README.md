@@ -23,6 +23,7 @@ The full methodological description of data collection and structure is provided
 AADA-DATABase/
 ├── data/                        # R binary objects (.rda), TULEE R-PAKETIN YHTEYDESSÄ
 ├── data-raw/
+    └── master_data.csv          # Merged master table from all periods
 │   ├── AADA_Bronze_Age/         # Per-category CSV files for the Bronze Age period
 │   │   └── AADA_Bronze_Age_master.csv   # Merged master table for the Bronze Age
 │   ├── AADA_Iron_Age/           # Per-category CSV files for the Iron Age period
