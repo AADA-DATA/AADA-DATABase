@@ -102,13 +102,13 @@ The Iron Age tables additionally include detailed sub-tables for pottery and sto
 | HM | Hämeen museo | Häme Museum, Museum Centre Vapriikki, Tampere |
 | Hal | Halikon museo | Halikko Museum (part of Salo Historical Museum) |
 | Per | Perniön museo | Perniö Museum (part of Salo Historical Museum) |
-| Linder | — | Linder collections, Turku Museum Centre |
-| Nyberg | — | Nyberg collections, EKTA Museum Raasepori |
+| Linder | Linder | Linder collections, Turku Museum Centre |
+| Nyberg | Nyberg | Nyberg collections, EKTA Museum Raasepori |
 | SII | Pöljän kotiseutumuseo | Curated by Kuopio Cultural History Museum |
 | KARTT/VI | Karttulan kotiseutumuseo | Curated by Kuopio Cultural History Museum |
 | KIUR | Kiuruveden museo | Kiuruvesi Museum, curated by Kuopio Cultural History Museum |
 | Lauri Nautela kok | Lauri Nautela Museum | Lauri Nautela Museum, Lieto |
-| SHH | — | Stockholm Historiska Museet, Sweden |
+| SHH | Stockholm Historiska Museet | Swedish History Museum, Sweden |
 
 ### Temporal Information
 
