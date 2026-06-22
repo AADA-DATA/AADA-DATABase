@@ -21,7 +21,6 @@ The full methodological description of data collection and structure is provided
 
 ```
 AADA-DATABase/
-├── data/                        # R binary objects (.rda), TULEE R-PAKETIN YHTEYDESSÄ
 ├── data-raw/
     └── master_data.csv          # Merged master table from all periods
 │   ├── AADA_Bronze_Age/         # Per-category CSV files for the Bronze Age period
@@ -35,7 +34,7 @@ AADA-DATABase/
 └── README.md
 ```
 
-The `data-raw/` directory constitutes the primary source of truth for all artefact data. Each period subdirectory contains the original per-category CSV files alongside a master CSV that consolidates all finds for that period. The master CSVs are intended for users who require a single flat file per chronological period and are directly usable in Python, Excel, or any other environment without requiring R. The `data/` and `R/` directories will be populated as the accompanying R package is developed.
+The `data-raw/` directory constitutes the primary source of truth for all artefact data. Each period subdirectory contains the original per-category CSV files alongside a master CSV that consolidates all finds for that period. The master CSVs are intended for users who require a single flat file per chronological period and are directly usable in Python, Excel, or any other environment without requiring R.
 
 ---
 
