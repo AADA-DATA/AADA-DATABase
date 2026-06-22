@@ -31,7 +31,6 @@ AADA-DATABase/
 │   ├── AADA_Stone_Age/          # Per-category CSV files for the Stone Age period
 │   │   └── AADA_Stone_Age_master.csv    # Merged master table for the Stone Age
 ├── examples/                    # Annotated R scripts, TÄNNE TULISI SITTEN R-PAKETIN KÄYTTÖESIMERKKEJÄ NYKYISTEN LISÄKSI
-├── R/                           # R package source code, TULEE R-PAKETIN YHTEYDESSÄ
 ├── LICENSE.md
 └── README.md
 ```
