@@ -6,7 +6,7 @@
 
 [![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.10437704-blue)](https://zenodo.org/records/10437704)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE.md)
-[![Article](https://img.shields.io/badge/Natural-Scientific_Data-blue)](https://doi.org/10.1038/s41597-024-03602-8)
+[![Article](https://img.shields.io/badge/Nature-Scientific_Data-blue)](https://doi.org/10.1038/s41597-024-03602-8)
 
 ---
 
