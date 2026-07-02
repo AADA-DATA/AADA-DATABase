@@ -2,7 +2,7 @@
 
 # Archaeological Artefact Database of Finland (AADA)
 
-> **Pesonen, P., Moilanen, U., Roose, M., Saipio, J., Tiilikkala, J., Sanwal, M. U., Immonen, V., Vesakoski, O. & Onkamo, P.** Archaeological Artefact Database of Finland (AADA). *Published in Nature Scientific Data.*
+> **Pesonen, P., Moilanen, U., Roose, M., Saipio, J., Tiilikkala, J., Sanwal, M. U., Immonen, V., Vesakoski, O. & Onkamo, P.** Archaeological Artefact Database of Finland (AADA). *Nature Scientific Data 11, 815 (2024).*
 
 [![Zenodo](https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.10437704-blue)](https://zenodo.org/records/10437704)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE.md)
@@ -14,7 +14,7 @@
 
 The Archaeological Artefact Database of Finland (AADA) is a comprehensive, systematically structured repository of prehistoric artefacts recovered from Finnish museum collections. The database is organised thematically across three chronological periods the Stone Age, Bronze Age, and Iron Agee. Each row in the dataset represents a single artefact, while each column encodes a specific attribute, including typological classification, provenance, spatial coordinates, and physical measurements. An exception is made for pottery, where each row denotes the presence of a pottery type or style within a given collection accession number rather than an individual vessel.
 
-The full methodological description of data collection and structure is provided in Pesonen et al. (submitted, *Nature Scientific Data*).
+The full methodological description of data collection and structure is provided in Pesonen et al. Nature Scientific Data 11, 815 (2024).
 
 ---
 
