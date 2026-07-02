@@ -1,5 +1,3 @@
-# TÄHÄN TARVITAAN KOMMENTTEJA, KOHDAT CAPS LCOKILLA
-
 # Archaeological Artefact Database of Finland (AADA)
 
 > **Pesonen, P., Moilanen, U., Roose, M., Saipio, J., Tiilikkala, J., Sanwal, M. U., Immonen, V., Vesakoski, O. & Onkamo, P.** Archaeological Artefact Database of Finland (AADA). *Nature Scientific Data 11, 815 (2024).*
@@ -42,7 +40,7 @@ The `data-raw/` directory constitutes the primary source of truth for all artefa
 ## Data Access
 
 ### Stable releases (Zenodo)
-Versioned snapshots of the dataset, including photographs, are archived in CERN's Zenodo repository and should be used for all citations in publications:
+Versioned snapshots of the dataset are archived in CERN's Zenodo repository and should be used for all citations in publications:
 
 > [https://zenodo.org/records/10437704](https://zenodo.org/records/10437704)
 
